@@ -1,0 +1,6 @@
+name: Thermodynamics-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
