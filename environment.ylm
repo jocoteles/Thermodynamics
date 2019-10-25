@@ -1,8 +1,14 @@
 name: Thermodynamics-environment
+name: example-environment
 channels:
   - conda-forge
 dependencies:
   - python
   - numpy
-  - matplotlib  
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
   - pandas
+  - partd
+  - bokeh
